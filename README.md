@@ -1,1 +1,2 @@
-# hello-world
+With the help of the current website Design course I would like to improve my coding skills in developing  a website and make sure by the end of this project I would like to build skills that would  enhance my UI design and deep analysis of the front end code with ease. 
+Apart from UI skills I would like to gain knowledge in accessing the code through github and publishing the code into github with ease.
